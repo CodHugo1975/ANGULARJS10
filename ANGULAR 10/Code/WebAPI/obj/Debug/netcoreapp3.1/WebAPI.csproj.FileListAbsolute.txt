@@ -1,0 +1,99 @@
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\SIA Interactive\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+E:\SIA Interactive\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\SIA Interactive\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+E:\SIA Interactive\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+E:\SIA Interactive\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+E:\SIA Interactive\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\SIA Interactive\Code\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+E:\SIA Interactive\Code\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+E:\SIA Interactive\Code\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+E:\SIA Interactive\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+E:\SIA Interactive\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+E:\SIA Interactive\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+E:\SIA Interactive\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+E:\SIA Interactive\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SIA Interactive\Code\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.xml
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI.styles.css
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+E:\HUGO REVAMPED 2018\DEMOS HUGO BALCAZAR\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.StaticWebAssets.xml
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.exe
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.deps.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.runtimeconfig.dev.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\WebAPI.pdb
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI.StaticWebAssets.Pack.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebAPI.props
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebAPI.props
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.RazorTargetAssemblyInfo.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\ANGULARJS\ANGULAR 10\Code\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
